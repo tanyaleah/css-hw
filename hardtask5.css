@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td {
+    border: 1px solid black;
+}
+th, td {
+padding: 10px; 
+color: white;
+background: red;
+
+}
+td.background2 {
+background: orange;
+color: gray;
+
+}
+
+td.background3 {
+    background: yellow;
+    color: black
+    }

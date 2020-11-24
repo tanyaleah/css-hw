@@ -1,0 +1,23 @@
+body {
+    font: 12pt Times, sans-serif;
+    background: rgb(184, 247, 238);
+    }
+
+    h1 {
+    color: rgb(231, 127, 162);
+    }
+
+    h2 {
+    color: rgb(145, 74, 145);
+    }
+
+    h3 {
+        color: rgb(250, 185, 142)
+    }
+    a:link {
+        color: green
+    }
+
+    a:hover {
+        color: blue;
+        }
